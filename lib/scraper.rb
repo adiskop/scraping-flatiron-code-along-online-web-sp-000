@@ -35,5 +35,3 @@ end
   end
 get_page 
 end
-
-
