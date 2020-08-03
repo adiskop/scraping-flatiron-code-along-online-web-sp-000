@@ -36,4 +36,4 @@ end
 
 end
 
-get page 
+get_page 
